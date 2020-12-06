@@ -1,8 +1,6 @@
 title: jekyll-rtd-theme
 description: Just another documentation theme compatible with GitHub Pages
 
-url : "https://deoksangryu.github.io"
-
 # debug:
 #   compress: true
 #   dist: false
